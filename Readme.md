@@ -1,5 +1,5 @@
 # 陳怡蓁's_Homework5 
-<img src="https://user-images.githubusercontent.com/105787420/171352318-3ec061a5-eb38-420d-ac88-8ab58da96fce.png" height=300>  
+ 
 ## Lecture 13: IoT Flask Web (github, vs code)  
 
   
@@ -9,5 +9,9 @@
 3.go to vs code clone this repository
 4.vs code 安裝 python extension       
 5.pip install flask, pandas, sklearn   
+
+快捷鍵 ctrl+shift+p ===> package manager 叫出 (git clone....)      
+快捷鍵 ctrl+' ==> 叫出終端機   
+
 
 
