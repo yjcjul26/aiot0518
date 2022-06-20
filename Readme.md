@@ -25,16 +25,16 @@
 1.(Check Point 3) simple flask web   
   *return 'hello world'   
 
-<img src"./1.png" height=300 />    
+<img src="./1.png" height=100 />    
 
 
-  *return '<h1>hello world big font<h1>'   
+  *return "hello world big font'   
 
-<img src"./2.png" height=300 />    
+<img src="./2.png" height=300 />    
 
   *return app.send_static_file('index.html')==>remenber to create static/index.html   
 
-<img src"./3.png" height=300 />      
+<img src="./3.png" height=300 />      
 
 7.C:> git remote add origin  https://github.com/yjcjul26/aiot0518.git    
 
