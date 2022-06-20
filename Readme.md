@@ -25,7 +25,7 @@
 1.(Check Point 3) simple flask web   
   *return 'hello world'   
 
-<img src="./1.png" height=100 />    
+<img src="./1.png" height=100 /> 
 
 
   *return "hello world big font'   
