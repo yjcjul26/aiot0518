@@ -8,7 +8,7 @@
 2.github create a new repository (aiot0518)      
 3.go to vs code clone this repository    
 4.vs code 安裝 python extension    
-5.pip install flask, pandas, sklearn   
+5.pip install flask, pandas, sklearn   (from local)
 
 
 *快捷鍵 ctrl+shift+p ===> package manager 叫出 (git clone....)        
