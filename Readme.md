@@ -25,13 +25,13 @@
 1.(Check Point 3) simple flask web   
   *return 'hello world'   
 
-<img src="./1.png" height=200 /> 
+![image](/1.PNG)
 
   *return "hello world big font'   
 
-<img src="./2.png" height=300 />    
+![image](/2.PNG)   
 
   *return app.send_static_file('index.html')==>remenber to create static/index.html   
 
-<img src="./4.png" height=300 />      
+![image](/4.PNG)     
 
