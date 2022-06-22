@@ -22,11 +22,12 @@
 
 
 ### Flask Web Development    
- 
+
   1.(Check Point 3) simple flask web   
 ### return 'hello world'      
 
-![image](/1.png)
+![image](/1.png)   
+
 ![image](/7.png)
 
 
@@ -35,11 +36,13 @@
 
 ### return "hello world big font'   
 
-![image](/2.png) 
+![image](/2.png)   
+
 ![image](/6.png)
 
 ### return app.send_static_file('index.html')==>remenber to create static/index.html   
 
-![image](/4.PNG) 
+![image](/4.PNG)   
+
 ![image](/8.png)    
 
