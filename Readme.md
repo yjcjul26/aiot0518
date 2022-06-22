@@ -28,7 +28,7 @@
 
 ![image](/1.png)   
 
-![image](/7.png)
+![image](/7.PNG)
 
 
 
@@ -38,11 +38,11 @@
 
 ![image](/2.png)   
 
-![image](/6.png)
+![image](/6.PNG)
 
 ### return app.send_static_file('index.html')==>remenber to create static/index.html   
 
 ![image](/4.PNG)   
 
-![image](/8.png)    
+![image](/8.PNG)    
 
